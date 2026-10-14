@@ -13,7 +13,7 @@ El dataset `ladb_mobility_economy` datos reales de TomTom Traffic Index y OECD C
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1DXXk1dqspxXfzMmFA5eZt2pYg4Orp0mQ#scrollTo=e0db824a-1804-4e21-b8db-3a366c0c6964)
+[![Open In Colab](https://colab.research.google.com/drive/1DXXk1dqspxXfzMmFA5eZt2pYg4Orp0mQ?usp=sharing)
 
 O:
 
